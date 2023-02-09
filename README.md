@@ -10,7 +10,7 @@ From your command line:
 
 $ git clone https://github.com/surenjanath/Spotify-Playlist-Download.git
 
-# Install django if you already don't have it.
+# Install requests if you already don't have it.
 $ pip install requests
 
 ```
