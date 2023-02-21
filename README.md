@@ -2,6 +2,9 @@
 
 ## How To Use
 
+
+YOUTUBE VIDEO : https://youtu.be/1wGU652jF9g
+
 To clone and run this application, you'll need [python](https://www.python.org/) 
 From your command line:
 
