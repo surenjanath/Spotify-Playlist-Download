@@ -1,6 +1,11 @@
 # Spotify-Playlist-Download
 
-## Updated :   `08 March 2023`
+## Updated :   `02 April 2023`
+v1.1.3
+- Added a fix for error `links`  and updated API call links
+- Added a functionality for new Playlists Name as Directory Name.
+
+### Updated :   `08 March 2023`
 v1.1.2
 - Added error handling for songs that does not return any links which will cause code to continue on
 - Added offsetting songs, now you can change the `OFFSET_VARIABLE`  to any songs that was missed
