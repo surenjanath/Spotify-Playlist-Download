@@ -16,7 +16,7 @@ v1.1.2
 ## How To Use
 
 
-YOUTUBE VIDEO : https://youtu.be/1wGU652jF9g
+YOUTUBE VIDEO : [https://youtu.be/1wGU652jF9g](https://www.youtube.com/watch?v=PBVGNCzihMM&t=37s)
 
 To clone and run this application, you'll need [python](https://www.python.org/) 
 From your command line:
