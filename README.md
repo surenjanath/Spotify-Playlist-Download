@@ -35,6 +35,10 @@ $ pip install requests
 1. [Automate Downloading Bulk Spotify Playlist [ ARTICLE ]](https://surenjanath.medium.com/automating-spotify-playlist-music-download-spotify-free-version-3ca289bf59f7)
 
 
+
+## ToC
+Please use it to download Copyright Free Music on Spotify <br/>For example : https://open.spotify.com/playlist/3fQ6EJdy6n1kF4Yw5bTAVx?si=2f26056713504154
+
 ## License
 
 MIT
