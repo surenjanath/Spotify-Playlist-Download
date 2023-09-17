@@ -1,15 +1,24 @@
 # Spotify-Playlist-Download
-## Last Tested :   `27 July 2023`
+## Last Tested :   `17 September 2023`
 
 ### Want to try the program instead of the code ? 
 See here : https://github.com/surenjanath/Spotify-Song-Downloader-PyQt5
 
-## Updated :   `02 April 2023`
+Code Works in Google Colab : https://colab.research.google.com/drive/1fXe_mnTPucaHvpvHbDqqfgDyAyzYBfNE?usp=sharing
+
+## New Update :   `17 September 2023`
+v1.2.0
+- Converted code to  object class instead.
+- Added the functionality to add in the metadata into the mp3 file name that includes the cover page if available
+- Added a self check for needed libraries instead of User installing it manually
+- Added a Play Btn using IPYTHON WIDGETS
+
+### Last Updated :   `02 April 2023`
 v1.1.3
 - Added a fix for error `links`  and updated API call links
 - Added a functionality for new Playlists Name as Directory Name.
 
-### Last Updated :   `08 March 2023`
+### Updated :   `08 March 2023`
 v1.1.2
 - Added error handling for songs that does not return any links which will cause code to continue on
 - Added offsetting songs, now you can change the `OFFSET_VARIABLE`  to any songs that was missed
