@@ -5,15 +5,18 @@
 See here : https://github.com/surenjanath/Spotify-Song-Downloader-PyQt5
 
 Code Works in Google Colab : https://colab.research.google.com/drive/1fXe_mnTPucaHvpvHbDqqfgDyAyzYBfNE?usp=sharing
+## New Update :   `19 October 2023`
+v1.3.0
+- API broken ( fixed with new api ) Please note this just a personal project. Showing off my webscraping skills :)
 
-## New Update :   `17 September 2023`
+## Last Update :   `17 September 2023`
 v1.2.0
 - Converted code to  object class instead.
 - Added the functionality to add in the metadata into the mp3 file name that includes the cover page if available
 - Added a self check for needed libraries instead of User installing it manually
 - Added a Play Btn using IPYTHON WIDGETS
 
-### Last Updated :   `02 April 2023`
+### Updated :   `02 April 2023`
 v1.1.3
 - Added a fix for error `links`  and updated API call links
 - Added a functionality for new Playlists Name as Directory Name.
