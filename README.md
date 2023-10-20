@@ -4,7 +4,7 @@
 ### Want to try the program instead of the code ? 
 See here : https://github.com/surenjanath/Spotify-Song-Downloader-PyQt5
 
-Code Works in Google Colab : https://colab.research.google.com/drive/1fXe_mnTPucaHvpvHbDqqfgDyAyzYBfNE?usp=sharing
+Code Works in Google Colab : [https://colab.research.google.com/drive/1fXe_mnTPucaHvpvHbDqqfgDyAyzYBfNE?usp=sharing](https://colab.research.google.com/drive/1TqH86MtrxkmQpiJAg2W5mlSTjvkOTspu?usp=sharing)
 ## New Update :   `19 October 2023`
 v1.3.0
 - API broken ( fixed with new api ) Please note this just a personal project. Showing off my webscraping skills :)
